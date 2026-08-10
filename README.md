@@ -1,2 +1,0 @@
-# xaitokens
-XAITokens website source
